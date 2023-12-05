@@ -17,7 +17,7 @@ DICOMweb Downloader is a Python script developed by Eduardo Caminha for efficien
 
 ### Steps
 1. Clone this repository:
-git clone [(https://github.com/eduardocaminha/DICOMweb-Downloader.git)]
+git clone https://github.com/eduardocaminha/DICOMweb-Downloader.git
 2. Navigate to the cloned directory:
 cd DICOMweb-Downloader
 3. Install required dependencies:
