@@ -27,7 +27,7 @@ pip install -r requirements.txt
 1. Update the `TXT_FILE_PATH`, `QIDO_URL`, `WADO_URL`, and `AE_TITLE` variables in `DICOMweb_Downloader.py` with your specific configuration details.
 2. Place your list of accession numbers in a text file and set its path to `TXT_FILE_PATH`.
 3. Execute the script:
-python DICOMweb_Downloader.py
+python DICOMwebDownloader.py
 
 ## Configuration
 Make sure to configure the following variables in the script:
